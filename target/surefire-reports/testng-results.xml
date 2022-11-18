@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5822" started-at="2022-09-23T22:52:32 EDT" finished-at="2022-09-23T22:52:38 EDT">
+    <groups>
+    </groups>
+    <test name="loginTest" duration-ms="5822" started-at="2022-09-23T22:52:32 EDT" finished-at="2022-09-23T22:52:38 EDT">
+      <class name="com.demobanking.testcase.Login_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demobanking.testcase.Login_Test@394a2528]" name="setup" is-config="true" duration-ms="1857" started-at="2022-09-23T22:52:32 EDT" finished-at="2022-09-23T22:52:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC001_user_login_with_valid_credential()[pri:0, instance:com.demobanking.testcase.Login_Test@394a2528]" name="TC001_user_login_with_valid_credential" duration-ms="3204" started-at="2022-09-23T22:52:34 EDT" finished-at="2022-09-23T22:52:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_user_login_with_valid_credential -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demobanking.testcase.Login_Test@394a2528]" name="tearDown" is-config="true" duration-ms="636" started-at="2022-09-23T22:52:37 EDT" finished-at="2022-09-23T22:52:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demobanking.testcase.Login_Test -->
+    </test> <!-- loginTest -->
+  </suite> <!-- Suite -->
+</testng-results>

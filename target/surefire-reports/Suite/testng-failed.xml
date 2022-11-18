@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.demobanking.listeners.Demobanking_Listener_Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="loginTest(failed)">
+    <classes>
+      <class name="com.demobanking.testcase.Login_Test">
+        <methods>
+          <include name="TC002_user_login_with_valid_and_invalid_credential" invocation-numbers="1 2"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.demobanking.testcase.Login_Test -->
+    </classes>
+  </test> <!-- loginTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,187 @@
+[INFO ] 2022-09-13 14:14:57.767 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:14:57.872 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:14:57.931 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:14:58.612 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 14:14:59.310 [main] BaseClass - login successfull
+[INFO ] 2022-09-13 14:15:02.629 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:15:02.694 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:15:02.755 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:15:02.898 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:15:03.510 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:15:03.510 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:15:06.589 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:15:06.649 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:15:06.715 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:15:06.884 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:15:07.501 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:15:07.501 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:17:03.188 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:17:03.269 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:17:03.335 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:17:04.114 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 14:17:05.020 [main] BaseClass - login successfull
+[INFO ] 2022-09-13 14:17:08.347 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:17:08.419 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:17:08.473 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:17:08.637 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:17:09.214 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:17:09.215 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:17:12.738 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:17:12.804 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:17:12.872 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:17:13.047 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:17:13.719 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:17:13.720 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:18:29.153 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:18:29.221 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:18:29.277 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:18:31.931 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 14:18:32.961 [main] BaseClass - login successfull
+[INFO ] 2022-09-13 14:18:36.014 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:18:36.085 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:18:36.152 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:18:36.312 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:18:36.905 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:18:36.905 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:18:40.157 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:18:40.232 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:18:40.295 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:18:40.476 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:18:41.067 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:18:41.067 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:53:57.253 [TestNG-PoolService-2] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:53:57.872 [TestNG-PoolService-1] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:53:58.392 [TestNG-PoolService-0] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:53:58.466 [TestNG-PoolService-1] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:53:58.485 [TestNG-PoolService-2] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:53:58.501 [TestNG-PoolService-0] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:53:58.559 [TestNG-PoolService-1] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:53:58.574 [TestNG-PoolService-2] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:53:58.591 [TestNG-PoolService-0] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:53:58.759 [TestNG-PoolService-1] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:53:59.444 [TestNG-PoolService-1] BaseClass - login failed
+[WARN ] 2022-09-13 14:53:59.445 [TestNG-PoolService-1] BaseClass - check page title
+[INFO ] 2022-09-13 14:57:11.504 [TestNG-PoolService-2] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:57:12.072 [TestNG-PoolService-0] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:57:12.637 [TestNG-PoolService-1] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:57:12.703 [TestNG-PoolService-0] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:57:12.718 [TestNG-PoolService-2] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:57:12.731 [TestNG-PoolService-1] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:57:12.797 [TestNG-PoolService-1] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:57:12.808 [TestNG-PoolService-0] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:57:12.820 [TestNG-PoolService-2] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:57:12.972 [TestNG-PoolService-1] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:57:13.676 [TestNG-PoolService-1] BaseClass - login failed
+[WARN ] 2022-09-13 14:57:13.676 [TestNG-PoolService-1] BaseClass - check page title
+[INFO ] 2022-09-13 14:58:49.367 [TestNG-PoolService-0] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:58:49.912 [TestNG-PoolService-2] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:58:50.445 [TestNG-PoolService-1] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:58:50.503 [TestNG-PoolService-0] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:58:50.517 [TestNG-PoolService-2] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:58:50.532 [TestNG-PoolService-1] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:58:50.591 [TestNG-PoolService-1] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:58:50.602 [TestNG-PoolService-2] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:58:50.612 [TestNG-PoolService-0] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:58:50.828 [TestNG-PoolService-1] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:58:51.553 [TestNG-PoolService-1] BaseClass - login failed
+[WARN ] 2022-09-13 14:58:51.554 [TestNG-PoolService-1] BaseClass - check page title
+[INFO ] 2022-09-13 14:59:40.559 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:59:40.650 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:59:40.710 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:59:41.488 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 14:59:42.289 [main] BaseClass - login successfull
+[INFO ] 2022-09-13 14:59:42.835 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:59:42.936 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:59:42.999 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:59:43.168 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:59:43.691 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:59:43.691 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 14:59:44.529 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 14:59:44.643 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 14:59:44.702 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 14:59:44.864 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 14:59:45.482 [main] BaseClass - login failed
+[WARN ] 2022-09-13 14:59:45.482 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 15:02:12.611 [TestNG-PoolService-2] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:02:13.193 [TestNG-PoolService-0] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:02:13.738 [TestNG-PoolService-1] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:02:13.795 [TestNG-PoolService-2] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:02:13.810 [TestNG-PoolService-0] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:02:13.824 [TestNG-PoolService-1] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:02:13.878 [TestNG-PoolService-2] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:02:13.890 [TestNG-PoolService-1] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:02:13.904 [TestNG-PoolService-0] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:02:14.044 [TestNG-PoolService-2] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 15:02:14.729 [TestNG-PoolService-2] BaseClass - login failed
+[WARN ] 2022-09-13 15:02:14.729 [TestNG-PoolService-2] BaseClass - check page title
+[INFO ] 2022-09-13 15:03:43.385 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:03:43.483 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:03:43.550 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:03:44.281 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 15:03:44.992 [main] BaseClass - login successfull
+[INFO ] 2022-09-13 15:03:45.569 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:03:45.641 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:03:45.705 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:03:45.844 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 15:03:46.354 [main] BaseClass - login failed
+[WARN ] 2022-09-13 15:03:46.354 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 15:03:47.227 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:03:47.324 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:03:47.432 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:03:47.612 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-13 15:03:48.168 [main] BaseClass - login failed
+[WARN ] 2022-09-13 15:03:48.168 [main] BaseClass - check username and password
+[INFO ] 2022-09-13 15:08:00.056 [main] BaseClass - url open successfully
+[INFO ] 2022-09-13 15:08:00.129 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-13 15:08:00.199 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-13 15:08:00.870 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-13 15:08:00.876 [main] BaseClass - login successfull
+[INFO ] 2022-09-23 22:35:46.090 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:35:46.239 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:35:46.366 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:35:48.058 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-23 22:35:48.071 [main] BaseClass - login successfull
+[INFO ] 2022-09-23 22:38:07.076 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:38:07.173 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:38:07.227 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:38:08.142 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-23 22:38:09.294 [main] BaseClass - login successfull
+[INFO ] 2022-09-23 22:38:09.955 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:38:10.013 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:38:10.096 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:38:10.305 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-23 22:38:10.930 [main] BaseClass - login failed
+[WARN ] 2022-09-23 22:38:10.930 [main] BaseClass - check username and password
+[INFO ] 2022-09-23 22:38:11.881 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:38:11.946 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:38:12.112 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:38:12.361 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-23 22:38:13.033 [main] BaseClass - login failed
+[WARN ] 2022-09-23 22:38:13.033 [main] BaseClass - check username and password
+[INFO ] 2022-09-23 22:45:30.723 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:45:30.824 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:45:30.902 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:45:31.760 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-23 22:45:32.773 [main] BaseClass - login successfull
+[INFO ] 2022-09-23 22:45:33.507 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:45:33.596 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:45:33.689 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:45:33.876 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-23 22:45:34.569 [main] BaseClass - login failed
+[WARN ] 2022-09-23 22:45:34.569 [main] BaseClass - check username and password
+[INFO ] 2022-09-23 22:45:35.334 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:45:35.432 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:45:35.507 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:45:35.683 [main] BaseClass - login btn click successfully
+[WARN ] 2022-09-23 22:45:36.441 [main] BaseClass - login failed
+[WARN ] 2022-09-23 22:45:36.441 [main] BaseClass - check username and password
+[INFO ] 2022-09-23 22:48:13.590 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:48:13.672 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:48:13.733 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:48:14.509 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-23 22:48:14.516 [main] BaseClass - login successfull
+[INFO ] 2022-09-23 22:52:36.737 [main] BaseClass - url open successfully
+[INFO ] 2022-09-23 22:52:36.807 [main] BaseClass - sending username successfully
+[INFO ] 2022-09-23 22:52:36.901 [main] BaseClass - sending password successfully
+[INFO ] 2022-09-23 22:52:37.588 [main] BaseClass - login btn click successfully
+[INFO ] 2022-09-23 22:52:37.594 [main] BaseClass - login successfull
